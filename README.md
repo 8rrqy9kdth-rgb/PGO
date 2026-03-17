@@ -1,1 +1,4 @@
 # PGO
+
+Student: Katarzyna Dąbek
+
